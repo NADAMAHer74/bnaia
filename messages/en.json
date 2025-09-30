@@ -1,6 +1,93 @@
 {
   "home": {
-    "title": "Home",
-    "description": "Home page description"
+    "getOrderTitle": "Get Your Order Price Within An Hour.",
+    "signUpDetails": "Sign Up Details,",
+    "getOrderDescription": "Are you unsure about pricing the order needed for your home finishing? Send us your order as image, Excel file, or PDF and we will get back to you with a quote.",
+    "requestQuotation": "Request Quotation",
+
+    "servicesTitle": "Services Categories",
+
+    "shopByActivityTitle": "Shop By Activity",
+    "shopByActivityDescription": "For a comfy home, ready from A to Z",
+    "shopNow": "Shop Now",
+
+    "pros": {
+      "customerSupport": "24/7 Customer Support",
+      "easyReturn": "Easy Return Policy",
+      "bestPrice": "Best Price Guarantee",
+      "quality": "Guaranteed Quality by Bnaia"
+    },
+
+    "categories": {
+      "buildingMaterial": "Building Material",
+      "landscape": "Landscape",
+      "constructionChemicals": "Construction Chemicals",
+      "gypsumBoard": "Gypsum Board",
+      "plumbing": "Plumbing",
+      "electrical": "Electrical",
+      "bathKitchen": "Bath & Kitchen",
+      "doors": "Doors",
+      "tools": "Tools"
+    },
+
+    "services": {
+      "engineeringOffices": "Engineering Offices",
+      "specializedContractors": "Specialized Contractors",
+      "specializedTechnicians": "Specialized Technicians",
+      "smartHome": "Smart Home"
+    }
+  },
+  "header": {
+    "services": "Services",
+    "ideaBook": "Idea Book",
+    "professionals": "Professionals",
+    "shopProducts": "Shop Products",
+    "joinPro": "Join as a Pro"
+  },
+  "footer": {
+    "shopTitle": "Shop by Category",
+    "servicesTitle": "Services",
+    "resourcesTitle": "Resources",
+    "legalTitle": "Bnaia Legal",
+    "contactTitle": "Location & Contact",
+    "paymentTitle": "Payment Options",
+    "copyright": "All rights reserved © Bnaia 2024",
+    "categories": [
+      "Request a Quotation (RFQ)",
+      "Home Finishing Materials",
+      "Tools & Equipment",
+      "Building Material",
+      "Electrical products",
+      "Plumbing products",
+      "Home Appliance",
+      "Paints products",
+      "Construction Chemical"
+    ],
+    "services": [
+      "Find a Professional",
+      "Home Finishing Technicians",
+      "Smart Home Solutions",
+      "Interior Designers",
+      "Specialized Contractors",
+      "Consultation Services"
+    ],
+    "resources": [
+      "Blog / Knowledge Center",
+      "Ideas Book",
+      "Project Cost Calculator",
+      "Materials Guide"
+    ],
+    "legal": [
+      "Terms & Conditions",
+      "Privacy Policy",
+      "Cookie Policy",
+      "Service Terms",
+      "Return Policy"
+    ],
+    "contact": [
+      "📞 +20 1273000046",
+      "📍 40 - Ashgar Darna - Maadi Cairo, Egypt",
+      "🕘 Working from 8 AM - 5 PM"
+    ]
   }
 }
